@@ -1,1 +1,1 @@
-print a group
+list all groups
